@@ -7,7 +7,6 @@
 <TITLE>INDEX.XML</TITLE>
 <BODY>
 <H2>HELLO WORLD</H2>
-<<<<<<< HEAD
 <H3>집갈래</H3>
 <FILEDSET>
 <LEGEND>집갈래</LEGEND>
@@ -18,7 +17,5 @@
 	
 	</UL>
 </FILEDSET>
-=======
->>>>>>> b1ffc7e UL 태그 및 아이템 2개 추가
 </BODY>
 </HTML>
