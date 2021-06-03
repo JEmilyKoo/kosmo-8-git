@@ -7,9 +7,9 @@
 <TITLE>INDEX.XML</TITLE>
 <BODY>
 <H2>HELLO WORLD</H2>
-<H3>집갈래</H3>
+<H3>hello</H3>
 <FILEDSET>
-<LEGEND>집갈래</LEGEND>
+<LEGEND>hello</LEGEND>
 	<UL>
 		<LI>자바</LI>
 		<LI>스프링</LI>
