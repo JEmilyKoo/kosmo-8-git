@@ -7,5 +7,13 @@
 <TITLE>INDEX.XML</TITLE>
 <BODY>
 <H2>HELLO WORLD</H2>
+<H3>집갈래</H3>
+<FILEDSET>
+<LEGEND>집갈ㄹ래</LEGEND>
+	<UL>
+		<LI>자바</LI>
+		<LI>스프링</LI>
+	</UL>
+</FILEDSET>
 </BODY>
 </HTML>
