@@ -9,10 +9,12 @@
 <H2>HELLO WORLD</H2>
 <H3>집갈래</H3>
 <FILEDSET>
-<LEGEND>집갈ㄹ래</LEGEND>
+<LEGEND>집갈래</LEGEND>
 	<UL>
 		<LI>자바</LI>
 		<LI>스프링</LI>
+		<LI>기술 스택에 대한 고민</LI>
+	
 	</UL>
 </FILEDSET>
 </BODY>
